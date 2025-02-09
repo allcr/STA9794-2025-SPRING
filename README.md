@@ -1,2 +1,2 @@
-# STA9794-SPRING-2025
+# STA9794-2025-SPRING
 Experiment Design and Causal Inference
